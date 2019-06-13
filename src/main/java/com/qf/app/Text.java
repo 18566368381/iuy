@@ -6,5 +6,6 @@ package com.qf.app;
 public class Text {
     public void iuy(){
         System.out.println("hahaha");
+        System.out.println("heiheihie");
     }
 }
